@@ -77,7 +77,7 @@ There is no explicit third-party analytics or advertising integration in the cur
 Marketing emails are not implemented. Notifications are limited to in-app events (for example, messages and reminders).
 
 ## 11. Children
-Age restrictions are 16+. Please define the minimum age and policy for minors.
+Age restrictions are 16+.
 
 ## 12. Changes to This Policy
 We may update this policy. The new version becomes effective on the publication date.
