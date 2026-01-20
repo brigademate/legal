@@ -1,9 +1,9 @@
-# Terms of Use for BrigadeMate_refined
+# Terms of Use for BrigadeMate
 
-Effective Date: 14 January 2026
+Effective Date: 20 January 2026
 
 ## 1. Acceptance of Terms
-By accessing or using BrigadeMate_refined, you agree to these Terms of Use. If you do not agree, do not use the app.
+By accessing or using BrigadeMate, you agree to these Terms of Use. If you do not agree, do not use the app.
 
 Service Operator: **not specified in project files**. Please provide the legal name and address of the operator/owner.
 
