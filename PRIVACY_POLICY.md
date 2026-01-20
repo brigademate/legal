@@ -55,7 +55,7 @@ Legal basis: performance of a contract (service delivery) and user consent where
 ## 5. Storage and Security
 Data is stored within Firebase infrastructure (Firestore, Storage, Authentication, Cloud Functions). Access is restricted through Firebase security rules and authentication.
 
-Deleting a project removes related records and files (including photos in Storage). Account deletion is not available in the app and requires contacting the operator.
+Deleting a project removes related records and files (including photos in Storage). Account deletion is available in the app (Menu > Account > Delete Account) or by contacting the operator if you cannot access the app.
 
 ## 6. Sharing With Third Parties
 We use third-party providers to run the service:

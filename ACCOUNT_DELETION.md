@@ -1,6 +1,10 @@
 # Account and Data Deletion
 
-If you want to delete your BrigadeMate account and associated data, contact us at:
+You can delete your BrigadeMate account and associated data directly in the app:
+
+Menu > Account > Delete Account
+
+If you cannot access the app, contact us at:
 
 Email: brigademate@gmail.com
 
