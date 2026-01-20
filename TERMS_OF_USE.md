@@ -5,7 +5,7 @@ Effective Date: 20 January 2026
 ## 1. Acceptance of Terms
 By accessing or using BrigadeMate, you agree to these Terms of Use. If you do not agree, do not use the app.
 
-Service Operator: Artur Carp, Causeni, Moldova 4304.
+Service Operator: Artur Carp, Causeni, Moldova 4304
 
 ## 2. Eligibility
 You must meet the minimum age required by applicable law. Age restrictions are 16+.
@@ -35,7 +35,7 @@ The service is provided "as is" and "as available" without warranties of any kin
 To the maximum extent permitted by law, the operator is not liable for indirect, incidental, special, or consequential damages arising from your use of the service.
 
 ## 11. Governing Law
-Governing law and jurisdiction are Republic of Moldova.
+Governing law and jurisdiction are Republic of Moldova, courts of Chisinau.
 
 ## 12. Changes to These Terms
 We may update these Terms. The new version becomes effective on the publication date.

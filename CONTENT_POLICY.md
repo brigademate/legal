@@ -1,11 +1,11 @@
-# Content Policy for BrigadeMate_refined
+# Content Policy for BrigadeMate
 
 Effective Date: 20 January 2026
 
 ## 1. Overview
-This Content Policy explains what content is allowed in BrigadeMate_refined and what is prohibited. "Content" includes any data users enter or upload in the app.
+This Content Policy explains what content is allowed in BrigadeMate and what is prohibited. "Content" includes any data users enter or upload in the app.
 
-Service Operator: Artur Carp, Causeni, Moldova 4304.
+Service Operator: Artur Carp, Causeni, Moldova 4304
 
 ## 2. Allowed Content
 The app is intended for project work and collaboration. Users may add:

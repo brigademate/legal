@@ -1,4 +1,4 @@
-# Privacy Policy for BrigadeMate_refined
+# Privacy Policy for BrigadeMate
 
 Effective Date: 20 January 2026
 
