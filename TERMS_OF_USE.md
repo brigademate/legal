@@ -5,7 +5,7 @@ Effective Date: 20 January 2026
 ## 1. Acceptance of Terms
 By accessing or using BrigadeMate, you agree to these Terms of Use. If you do not agree, do not use the app.
 
-Service Operator: **not specified in project files**. Please provide the legal name and address of the operator/owner.
+Service Operator: Artur Carp, Causeni, Moldova 4304.
 
 ## 2. Eligibility
 You must meet the minimum age required by applicable law. Age restrictions are **not specified in project files**. Please define the minimum age for users.
