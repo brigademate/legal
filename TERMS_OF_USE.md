@@ -8,7 +8,7 @@ By accessing or using BrigadeMate, you agree to these Terms of Use. If you do no
 Service Operator: Artur Carp, Causeni, Moldova 4304.
 
 ## 2. Eligibility
-You must meet the minimum age required by applicable law. Age restrictions are **not specified in project files**. Please define the minimum age for users.
+You must meet the minimum age required by applicable law. Age restrictions are 16+.
 
 ## 3. Account Registration and Security
 You are responsible for maintaining the confidentiality of your credentials and for all activities under your account. You agree to provide accurate information and keep it up to date.
@@ -35,10 +35,10 @@ The service is provided "as is" and "as available" without warranties of any kin
 To the maximum extent permitted by law, the operator is not liable for indirect, incidental, special, or consequential damages arising from your use of the service.
 
 ## 11. Governing Law
-Governing law and jurisdiction are **not specified**. Please provide the applicable law and venue.
+Governing law and jurisdiction are Republic of Moldova.
 
 ## 12. Changes to These Terms
 We may update these Terms. The new version becomes effective on the publication date.
 
 ## 13. Contact
-For questions about these Terms, contact the operator: **contact not specified**. Please provide an email and, if applicable, a postal address.
+For questions about these Terms, contact the operator: brigademate@gmail.com.
