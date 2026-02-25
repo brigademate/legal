@@ -2,7 +2,7 @@
 
 You can delete your BrigadeMate account and associated data directly in the app:
 
-Menu > Account > Delete Account
+Menu > Security > Delete Account
 
 If you cannot access the app, contact us at:
 
