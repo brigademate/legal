@@ -15,6 +15,7 @@ You are responsible for maintaining the confidentiality of your credentials and 
 
 ## 4. Service Description
 The app provides tools for project management and collaboration, including tasks, materials, tools, work logs, messaging, and file/photo uploads.
+Some features can be limited by service tier (for example, finance, chat, PDF export, and project/data limits). Availability may change based on active plan status.
 
 ## 5. User Content
 You retain ownership of content you submit, but you grant the operator a limited license to store, process, and display it solely to provide the service. You are responsible for ensuring you have rights to any content you upload.
