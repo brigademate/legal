@@ -1,6 +1,4 @@
-# Privacy Policy for BrigadeMate
-
-Effective Date: 20 January 2026
+Effective Date: 26 February2026
 
 ## 1. Overview
 This Privacy Policy explains what data the BrigadeMate application processes and how it is used. The app supports project management, materials and tasks tracking, team collaboration, photos, and messaging.
@@ -18,6 +16,7 @@ By using the app, you agree to this policy.
 - First and last name, company name.
 - Email, phone, address, tax ID (if provided by the user).
 - Notification preference (notificationsEnabled).
+- Subscription/access metadata (for example: plan tier, subscription status/source, expiry timestamp).
 
 ### 2.3 Project and Workflow Data
 - Project data: address, type, description, status, budget, deadline, currency.
@@ -55,7 +54,7 @@ Legal basis: performance of a contract (service delivery) and user consent where
 ## 5. Storage and Security
 Data is stored within Firebase infrastructure (Firestore, Storage, Authentication, Cloud Functions). Access is restricted through Firebase security rules and authentication.
 
-Deleting a project removes related records and files (including photos in Storage). Account deletion is available in the app (Menu > Account > Delete Account) or by contacting the operator if you cannot access the app.
+Deleting a project removes related records and files (including photos in Storage). Account deletion is available in the app (Menu > Security > Delete Account) or by contacting the operator if you cannot access the app.
 
 ## 6. Sharing With Third Parties
 We use third-party providers to run the service:
@@ -71,7 +70,9 @@ Firebase and Expo may process data on servers located outside your country, whic
 You can request access, correction, or deletion of your data. Contact the operator using the details below.
 
 ## 9. Cookies and Analytics
-There is no explicit third-party analytics or advertising integration in the current app. Mobile builds do not use cookies.
+The app records product usage and operational events in Firestore (for example: task/material/worklog/finance events) to monitor reliability and improve product decisions.
+For BI reporting, analytics events may be exported to BigQuery.
+Mobile builds do not use browser cookies.
 
 ## 10. Marketing and Communications
 Marketing emails are not implemented. Notifications are limited to in-app events (for example, messages and reminders).
