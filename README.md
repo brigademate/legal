@@ -1,5 +1,4 @@
-# legal
-🏗️ BrigadeMate — A B2B SaaS mobile app for construction management. Built with React Native (Expo), Firebase, and RevenueCat. Features real-time sync, PDF reporting, and role-based access control.
+🏗️ BrigadeMate — A B2B SaaS mobile app for construction management. Built with React Native (Expo) and Firebase. Features real-time sync, PDF reporting, role-based access control, and freemium access limits.
 
 BrigadeMate: Construction Management Platform
 
@@ -13,7 +12,7 @@ Role-Based Access Control (RBAC): Distinct interfaces for Owners (financials, es
 
 PDF Reporting: Automated generation of professional estimates and reports with embedded photos.
 
-SaaS Monetization: Integrated subscription model via RevenueCat (Freemium + Pro Tiers).
+SaaS Monetization: Freemium + Pro access model. Billing integration is planned in upcoming releases.
 
 Offline First: Works reliably in basements and areas with poor connectivity.
 
@@ -23,6 +22,6 @@ Frontend: React Native, Expo, TypeScript
 
 Backend / DB: Google Firebase (Auth, Firestore, Storage)
 
-Payments: RevenueCat (iOS & Android)
+Payments: Planned (billing integration in progress)
 
-UI: Custom components, Reanimated
+UI: Custom components
