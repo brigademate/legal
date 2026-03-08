@@ -1,6 +1,6 @@
 # Terms of Use for BrigadeMate
 
-Effective Date: 20 January 2026
+Effective Date: 8 March 2026
 
 ## 1. Acceptance of Terms
 By accessing or using BrigadeMate, you agree to these Terms of Use. If you do not agree, do not use the app.
@@ -16,6 +16,23 @@ You are responsible for maintaining the confidentiality of your credentials and 
 ## 4. Service Description
 The app provides tools for project management and collaboration, including tasks, materials, tools, work logs, messaging, and file/photo uploads.
 Some features can be limited by service tier (for example, finance, chat, PDF export, and project/data limits). Availability may change based on active plan status.
+
+## 4.1 Service Tiers (Free and Pro)
+BrigadeMate currently provides at least two access tiers: **Free** and **Pro**.
+
+Free tier may include product limits, such as:
+- maximum owned projects;
+- maximum members per project;
+- limits for materials, tasks, tools, workers, transactions, and photos per project.
+
+Pro tier includes extended access, such as:
+- unlimited projects;
+- quotes and PDF export;
+- team access and collaboration tools;
+- margin/finance tracking and analytics;
+- increased seat limits.
+
+Current limits and feature flags may change over time and are enforced by the active entitlement status in the app.
 
 ## 5. User Content
 You retain ownership of content you submit, but you grant the operator a limited license to store, process, and display it solely to provide the service. You are responsible for ensuring you have rights to any content you upload.
