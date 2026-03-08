@@ -1,4 +1,4 @@
-Effective Date: 26 February2026
+Effective Date: 8 March 2026
 
 ## 1. Overview
 This Privacy Policy explains what data the BrigadeMate application processes and how it is used. The app supports project management, materials and tasks tracking, team collaboration, photos, and messaging.
@@ -35,6 +35,15 @@ By using the app, you agree to this policy.
 
 ### 2.6 Technical Data
 Firebase and Expo may process technical data such as IP address, device information, app version, and error logs to provide and secure the service.
+
+### 2.7 Billing and Plan Data
+To provide subscription access and enforce Free/Pro limits, we may process:
+- subscription identifiers (internal and store-side);
+- billing event records (for example purchase, renewal, cancellation, expiration, refund);
+- entitlement status and period dates;
+- product identifiers and platform source (web / app store / google play).
+
+For App Store / Google Play purchases, payment card data is processed by the store provider, not by BrigadeMate servers.
 
 ## 3. Data Sources
 - Data you enter directly (profile, projects, contacts, notes).
