@@ -1,6 +1,6 @@
 # Terms of Use for BrigadeMate
 
-Effective Date: 8 March 2026
+Effective Date: 13 March 2026
 
 ## 1. Acceptance of Terms
 By accessing or using BrigadeMate, you agree to these Terms of Use. If you do not agree, do not use the app.
@@ -33,6 +33,21 @@ Pro tier includes extended access, such as:
 - increased seat limits.
 
 Current limits and feature flags may change over time and are enforced by the active entitlement status in the app.
+
+## 4.2 Billing, Renewal, and Cancellation
+If you subscribe through Apple App Store or Google Play, billing is processed by the relevant store under its own payment terms.
+Store subscriptions are generally auto-renewable unless canceled.
+You can manage and cancel store subscriptions in your App Store / Google Play subscription settings.
+
+For web subscriptions, billing may be processed by Paddle or another authorized web payment provider shown at checkout.
+Web subscriptions may renew automatically unless canceled before the next billing date.
+You can cancel renewal for web subscriptions through the web account/billing area or by contacting support.
+
+## 4.3 Refund Policy for Web Purchases
+For web purchases processed through Paddle, fees are generally non-refundable once the subscription period has started, except where a refund is required by applicable law or expressly approved by the operator.
+If you believe you were charged in error, were charged twice, or had a technical issue affecting the purchase, contact support at brigademate@gmail.com and include the purchase email, date, and any available receipt details.
+Approved refunds for web purchases may be issued through Paddle or the original payment method.
+Canceling a subscription stops future renewals but does not automatically create a refund for the current billing period unless otherwise required by law.
 
 ## 5. User Content
 You retain ownership of content you submit, but you grant the operator a limited license to store, process, and display it solely to provide the service. You are responsible for ensuring you have rights to any content you upload.
