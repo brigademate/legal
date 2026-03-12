@@ -1,6 +1,6 @@
 # Terms of Use for BrigadeMate
 
-Effective Date: 13 March 2026
+Effective Date: 20 January 2026
 
 ## 1. Acceptance of Terms
 By accessing or using BrigadeMate, you agree to these Terms of Use. If you do not agree, do not use the app.

@@ -1,4 +1,6 @@
-Effective Date: 8 March 2026
+# Privacy Policy for BrigadeMate
+
+Effective Date: 20 January 2026
 
 ## 1. Overview
 This Privacy Policy explains what data the BrigadeMate application processes and how it is used. The app supports project management, materials and tasks tracking, team collaboration, photos, and messaging.
@@ -17,6 +19,7 @@ By using the app, you agree to this policy.
 - Email, phone, address, tax ID (if provided by the user).
 - Notification preference (notificationsEnabled).
 - Subscription/access metadata (for example: plan tier, subscription status/source, expiry timestamp).
+- Entitlement and feature-access flags used to apply Free/Pro limits.
 
 ### 2.3 Project and Workflow Data
 - Project data: address, type, description, status, budget, deadline, currency.
