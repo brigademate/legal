@@ -45,7 +45,7 @@ You can cancel renewal for web subscriptions through the web account/billing are
 
 ## 4.3 Refund Policy for Web Purchases
 For web purchases processed through Paddle, fees are generally non-refundable once the subscription period has started, except where a refund is required by applicable law or expressly approved by the operator.
-If you believe you were charged in error, were charged twice, or had a technical issue affecting the purchase, contact support at brigademate@gmail.com and include the purchase email, date, and any available receipt details.
+If you believe you were charged in error, were charged twice, or had a technical issue affecting the purchase, contact support at support@brigademate.com and include the purchase email, date, and any available receipt details.
 Approved refunds for web purchases may be issued through Paddle or the original payment method.
 Canceling a subscription stops future renewals but does not automatically create a refund for the current billing period unless otherwise required by law.
 
@@ -74,4 +74,4 @@ Governing law and jurisdiction are Republic of Moldova, courts of Chisinau.
 We may update these Terms. The new version becomes effective on the publication date.
 
 ## 13. Contact
-For questions about these Terms, contact the operator: brigademate@gmail.com.
+For questions about these Terms, contact the operator: support@brigademate.com.

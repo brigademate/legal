@@ -6,7 +6,7 @@ Menu > Security > Delete Account
 
 If you cannot access the app, contact us at:
 
-Email: brigademate@gmail.com
+Email: support@brigademate.com
 
 Please include the email address of your account and the phrase "Account deletion request" in the subject line.
 

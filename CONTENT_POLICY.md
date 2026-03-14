@@ -33,7 +33,7 @@ You are responsible for the content you post and must have the rights to use and
 The operator may remove content if there is reason to believe it violates this policy or the law. Automated moderation is not implemented in the current version.
 
 ## 6. Reports and Complaints
-If you find content that violates this policy, contact the operator: brigademate@gmail.com.
+If you find content that violates this policy, contact the operator: support@brigademate.com.
 
 ## 7. Changes to This Policy
 We may update this policy. The new version becomes effective on the publication date.

@@ -96,4 +96,4 @@ Age restrictions are 16+.
 We may update this policy. The new version becomes effective on the publication date.
 
 ## 13. Contact
-Privacy contact: brigademate@gmail.com
+Privacy contact: support@brigademate.com

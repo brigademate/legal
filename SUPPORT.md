@@ -2,4 +2,4 @@
 
 If you need help with BrigadeMate, contact us:
 
-Email: brigademate@gmail.com
+Email: support@brigademate.com

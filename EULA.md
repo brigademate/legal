@@ -3,7 +3,7 @@
 This End User License Agreement ("EULA") is between you and the operator of BrigadeMate.
 
 Service Operator: Artur Carp, Causeni, Moldova 4304
-Contact: brigademate@gmail.com
+Contact: support@brigademate.com
 
 ## 1. License Grant
 You are granted a limited, non-exclusive, non-transferable, revocable license to use the app for its intended purpose.

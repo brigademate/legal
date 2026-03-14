@@ -3,7 +3,7 @@
 ## Reporting a Vulnerability
 If you believe you have found a security vulnerability in BrigadeMate, please report it by email:
 
-Email: brigademate@gmail.com
+Email: support@brigademate.com
 
 Please include:
 - a clear description of the issue;
