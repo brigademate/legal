@@ -44,10 +44,12 @@ Web subscriptions may renew automatically unless canceled before the next billin
 You can cancel renewal for web subscriptions through the web account/billing area or by contacting support.
 
 ## 4.3 Refund Policy for Web Purchases
-For web purchases processed through Paddle, fees are generally non-refundable once the subscription period has started, except where a refund is required by applicable law or expressly approved by the operator.
-If you believe you were charged in error, were charged twice, or had a technical issue affecting the purchase, contact support at support@brigademate.com and include the purchase email, date, and any available receipt details.
-Approved refunds for web purchases may be issued through Paddle or the original payment method.
-Canceling a subscription stops future renewals but does not automatically create a refund for the current billing period unless otherwise required by law.
+If you are not satisfied with your web purchase, you may request a refund within 14 days of the initial purchase.
+Refund requests can be submitted by contacting support at support@brigademate.com.
+Refunds for web purchases are processed through Paddle and may take several business days to appear on your account or payment method.
+If you believe you were charged in error, were charged twice, or had a technical issue affecting the purchase, include the purchase email, date, and any available receipt details when contacting support.
+Canceling a subscription stops future renewals but does not automatically create a refund for the current billing period unless a refund is approved or required by applicable law.
+For purchases made through mobile app stores, including Apple App Store or Google Play, refund requests must be submitted directly through the relevant app store.
 
 ## 5. User Content
 You retain ownership of content you submit, but you grant the operator a limited license to store, process, and display it solely to provide the service. You are responsible for ensuring you have rights to any content you upload.
